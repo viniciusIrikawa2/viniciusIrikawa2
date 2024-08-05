@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Vinícius👋
 
-<!--
-**viniciusIrikawa2/viniciusIrikawa2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🧑🏻‍💻Web Developer
+### 🔰From Brazil
 
-Here are some ideas to get you started:
+## Technologies
+### Front End
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,typescript)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Back End
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,typescript,postgres,mongodb)](https://skillicons.dev)
+
+### Tests
+[![My Skills](https://skillicons.dev/icons?i=cypress,jest)](https://skillicons.dev)
+
+### Styles
+[![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap)](https://skillicons.dev)
+
+### Others
+[![My Skills](https://skillicons.dev/icons?i=docker,git,gcp,rabbitmq)](https://skillicons.dev)
+
+## Contact
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vinícius-irikawa/)
